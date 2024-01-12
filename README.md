@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Thanh, currently a computer science student at VinUniversity, Vietnam
 - 👀 I’m interested in Competitive Programming and Capture the Flag
-- 📫 Reach me via wt.vathanh@gmail.com or https://www.facebook.com/guhadeeni/
+- 📫 Contact me via wt.vathanh@gmail.com or https://www.facebook.com/guhadeeni/
