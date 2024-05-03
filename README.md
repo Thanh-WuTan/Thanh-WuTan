@@ -13,6 +13,5 @@ I'm a Computer Science student at VinUniversity, Vietnam, with a keen interest i
 ## How to Reach Me
 
 - 📧 Email: [wt.vathanh@gmail.com](mailto:wt.vathanh@gmail.com)
-- 📘 Facebook: [guhadeeni](https://www.facebook.com/guhadeeni/)
-
+  
 Feel free to connect with me! I'm always open to discussions, collaborations, and learning new things.
