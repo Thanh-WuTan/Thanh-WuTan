@@ -7,8 +7,7 @@ I'm a Computer Science student at VinUniversity, Vietnam, with a keen interest i
 - 🎓 Studying Computer Science at VinUniversity, Vietnam.
 - 💻 Experienced in competitive programming.
 - 🔐 Actively learning and exploring the field of cybersecurity.
-- 🚀 Currently focused on improving my skills through Capture The Flag (CTF) challenges.
-- 🌐 Particularly interested in web security, reverse engineering, and binary exploitation challenges.
+- 🚀 Currently focused on improving my skills through Capture The Flag (CTF) challenges. 
 
 ## How to Reach Me
 
